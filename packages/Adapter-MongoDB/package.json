@@ -23,7 +23,7 @@
   "license": "MIT",
   "dependencies": {
     "@types/mongodb": "^3.1.19",
-    "mongodb": "^3.1.12"
+    "mongodb": "^3.3.0"
   },
   "peerDependencies": {
     "@nano-sql/core": "^2.2.4"
